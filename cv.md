@@ -1,9 +1,6 @@
 # Julia Sinkova
 
-<aside>
-👋 I'm a QA **engineer** based in **Batumi, Georgia** with **experience** in test automation using JS. My goal is to deepen my knowledge in javascript and become a front-end developer
-
-</aside>
+👋 I'm a QA engineer based in Batumi, Georgia with experience in test automation using JS. My goal is to deepen my knowledge in javascript and become a front-end developer
 
 ### **Contact**
 
@@ -27,9 +24,7 @@
 - SQL
 - Figma
 
----
-
-# ****Code examples****
+# Code examples
 
 ```jsx
 /*
@@ -74,17 +69,15 @@ function maskify(cc) {
 }
 ```
 
----
-
 # Experience
 
-## Frontend intern
+### Frontend intern
 
 Responsibilities:
 
 • Development of responsive web pages using React and Typescript.
 
-## QA Engineer
+### QA Engineer
 
 Responsibilities:
 
@@ -94,17 +87,14 @@ Responsibilities:
 - API testing using Postman
 - Writing test and user documentation (english and russian languages)
 
----
 
 # Education
 
-****FRONTEND DEVELOPER course at**** https://hexlet.io/
+FRONTEND DEVELOPER course at https://hexlet.io/
 
 ## Altai State University (2015 - 2019)
 
  Bachelor's Degree in Linguistics
-
----
 
 # Languages:
 
