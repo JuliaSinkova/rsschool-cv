@@ -98,14 +98,6 @@ FRONTEND DEVELOPER course at https://hexlet.io/
 
 # Languages:
 
-### Russian
-
-Native speaker
-
-### English
-
-Proficient 
-
-### German
-
-Intermediate level
+- **Russian** -  Native speaker
+- **English** - Proficient
+- **German** - Intermediate level
